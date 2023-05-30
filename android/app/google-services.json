@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478754343048",
+    "project_id": "behope-18d07",
+    "storage_bucket": "behope-18d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478754343048:android:1d07640160ff04009b773d",
+        "android_client_info": {
+          "package_name": "com.behope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWUuR8KEHtgaMpJua_d9ZbwMf1WVgKlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
